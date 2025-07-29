@@ -50,9 +50,3 @@ The purpose of this project is to analyze coffee sales data to help businesses m
 
 
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
